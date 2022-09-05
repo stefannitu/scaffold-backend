@@ -7,3 +7,5 @@ NodeJS HTTPS server using ExpressJS.</br>
 -   Typescript support
 -   Eslint
 -   Prettier
+-   Dotenv
+-   local certificate created with mkcert(test only)
